@@ -1,6 +1,4 @@
-## resume
-##### Short Summary of What I Do
-
+## Resume - Short Summary of What I Do
 #### jefferson Otoni Lima
 ##### CEO & Co-Fundador and Developer Full Stack | S3wf 
 ###### jeff.otoni@s3wf.com.br / 55 (31) 987087256 / Belo Horizonte MG
