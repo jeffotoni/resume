@@ -24,14 +24,19 @@ Aws, Cloud Google, currently using only Aws to execute the projects using Ec2, E
 Development of a Worker Pool for mass mailing, integrated with Amazon SES and SQS. Golang language and Redis database and the Amazon SDK.
 
 ##### Web service REST ( Golang/Postgresql/DynamoDB/Ngnix)
-Developing REST Web Service for a file upload server, the developed API uses authentication using JWT. Golang language, Ngnix (HTTP reverse proxy), RabbitMq for queue management, Elasticsearch for the logs and Docker usage for the created micro-service and S3 for storage, and in the client uses JS + Bootstrap + Webpack. A demo can be viewed here: [ios3.s3appis.com](http://ios3.s3apis.com/)
+Developing REST Web Service for a file upload server, the developed API uses authentication using JWT. Golang language, Ngnix (HTTP reverse proxy), RabbitMq for queue management, Elasticsearch for the logs and Docker usage for the created micro-service and S3 for storage, and in the client uses JS + Bootstrap + Webpack.
+
+###### A demo can be viewed here
+
+- [ios3.s3appis.com](http://ios3.s3apis.com)
 
 ##### Mercado Livre (PHP e Golang/Postgresql)
 Integration with Free Market to manage and ship products with your marketplace. Using Postgresql and the Free Market SDK, the modules were rewritten in Golang, the first version was made in PHP.
 
 ##### Framework itself, E-commerce, Marketplaces and Videos online
 Developed in PHP, Databases in RDS AWs using postgres, some specific modules of much traffic were rewritten in Golang, see some of the projects that use the platform.
-- See some examples
+
+###### See some examples
 - [zaionshop.s3](http://zaionshop.s3commerce.com.br)
 - [nilltags.s3](http://nilltags.s3wf.com.br)
 - [useverso.s3](http://useverso.s3commerce.com.br)
@@ -44,7 +49,8 @@ Developed in PHP, Databases in RDS AWs using postgres, some specific modules of 
 
 ##### Bash, terminal, Server SOAP/WSDL, Server RestFul and GED (Php/Golang/Postgres)
 Developed in Golang, shell script and Php.
-- See some examples:
+
+###### See some examples:
 - [densotouch.s3](http://densotouch.s3wf.com.br)
 - [Aethra Group](http://develged.aethra.com.br)
 - [system georadar](http://sao.georadar.com.br)
@@ -55,7 +61,8 @@ Developed in Golang, shell script and Php.
 
 ##### Portals, Blogs, Intranets, Extranets and Systems (PHP/Postgres)
 Developed in Php, database Redis and Postgres
-- See some examples:
+
+###### See some examples
 - [grupoperfect.com.br](http://grupoperfect.com.br)
 - [s3wf.com.br](http://s3wf.com.br)
 - [s3commerce.com.br](http://s3commerce.com.br)
