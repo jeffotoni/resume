@@ -5,7 +5,7 @@
 
 I love software development, more than 10 years working with web development, as development engineer and full stack developer, specializing in some programming languages ​​in the linux environment, using scalable and high performance services. I gave lectures several times in events in the big cities, universities and startups, as instructor I ministered several programming courses. As a developer I constantly strive to learn and experiment with technologies, new programming languages ​​and software architecture. I love creating new frameworks to solve specific problems always starting from scratch but always testing and experimenting with existing ones. Experience in AWS, whether writing software to optimize and consume the APIs available as the use and configuration of the resources Aws: Ec2, EBS, Elastic Load Balancing, Elastic Beanstalk, Rds, S3, CloudFront, AWS API Gateway, DynamoDB, Route 53, Ses , Sqs. As an entrepreneur some skills: Create talented and productive teams, keep the work environment as a startup, knowledge in various business models, leader, teacher, problem-solving talent, very demanding when it comes to quality and efficiency, committed, persistent and always in search of opportunities.
 
-###### Programming languages
+##### Programming languages
 C, Shell script, Php, Go (golang) e Javascript, Html5 e Css3, Sql. Currently experiencing the Rust and Python.
 
 ###### Database, Cache and Advanced Message Queuing
