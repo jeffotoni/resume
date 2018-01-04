@@ -24,5 +24,5 @@ Aws, Cloud Google, currently using only Aws to execute the projects using Ec2, E
 Development of a Worker Pool for mass mailing, integrated with Amazon SES and SQS. Golang language and Redis database and the Amazon SDK.
 
 ###### Web service REST ( Golang/Postgresql/DynamoDB/Ngnix)
-Developing REST Web Service for a file upload server, the developed API uses authentication using JWT. Golang language, Ngnix (HTTP reverse proxy), RabbitMq for queue management, Elasticsearch for the logs and Docker usage for the created micro-service and S3 for storage, and in the client uses JS + Bootstrap + Webpack. A demo can be viewed here: [ios3.s3appis.com](https://ios3.s3apis.com/)
+Developing REST Web Service for a file upload server, the developed API uses authentication using JWT. Golang language, Ngnix (HTTP reverse proxy), RabbitMq for queue management, Elasticsearch for the logs and Docker usage for the created micro-service and S3 for storage, and in the client uses JS + Bootstrap + Webpack. A demo can be viewed here: [ios3.s3appis.com](http://ios3.s3apis.com/)
 
