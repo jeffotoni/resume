@@ -30,6 +30,9 @@ Developing REST Web Service for a file upload server, the developed API uses aut
 Integration with Free Market to manage and ship products with your marketplace. Using Postgresql and the Free Market SDK, the modules were rewritten in Golang, the first version was made in PHP.
 
 ##### Framework itself, E-commerce, Marketplaces and Videos online
-Developed in PHP, Databases in RDS AWs using postgres, some specific modules of much traffic were rewritten in Golang, see some of the projects that use the platform: [zaionshop](zaionshop.s3commerce.com.br), [nilltags](nilltags.s3wf.com.br),  [useverso](useverso.s3commerce.com.br), [divercellomoveis](divercellomoveis.com.br), [mochillaecia](mochilaecia.com.br), [rafaelmendonca](rafaelmendonca.com.br), [donalcides](donalcides.com.br), [designmania](designmania.com.br), [onlyway](onlyway.s3wf.com.br)
+Developed in PHP, Databases in RDS AWs using postgres, some specific modules of much traffic were rewritten in Golang, see some of the projects that use the platform: [zaionshop](http://zaionshop.s3commerce.com.br), [nilltags](http://nilltags.s3wf.com.br),  [useverso](http://useverso.s3commerce.com.br), [divercellomoveis](http://divercellomoveis.com.br), [mochillaecia](http://mochilaecia.com.br), [rafaelmendonca](http://rafaelmendonca.com.br), [donalcides](http://donalcides.com.br), [designmania](http://designmania.com.br), [onlyway](http://onlyway.s3wf.com.br)
+
+##### Bash, terminal, Server SOAP/WSDL, Server RestFul and GED (Php/Golang/Postgres)
+Developed in Golang, shell script and Php: [densotouch](http://densotouch.s3wf.com.br), [Aethra Group](http://develged.aethra.com.br), [georadar sao](http://sao.georadar.com.br), [commercial proposal](http://spc2.s3wf.com.br), [ponto online](http://ponto.s3wf.com.br), [gotratch](http://gotratch.s3wf.com.br), [archiviobrasil](http://archiviobrasil.com.br)
 
 
