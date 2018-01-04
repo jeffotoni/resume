@@ -30,9 +30,56 @@ Developing REST Web Service for a file upload server, the developed API uses aut
 Integration with Free Market to manage and ship products with your marketplace. Using Postgresql and the Free Market SDK, the modules were rewritten in Golang, the first version was made in PHP.
 
 ##### Framework itself, E-commerce, Marketplaces and Videos online
-Developed in PHP, Databases in RDS AWs using postgres, some specific modules of much traffic were rewritten in Golang, see some of the projects that use the platform: [zaionshop](http://zaionshop.s3commerce.com.br), [nilltags](http://nilltags.s3wf.com.br),  [useverso](http://useverso.s3commerce.com.br), [divercellomoveis](http://divercellomoveis.com.br), [mochillaecia](http://mochilaecia.com.br), [rafaelmendonca](http://rafaelmendonca.com.br), [donalcides](http://donalcides.com.br), [designmania](http://designmania.com.br), [onlyway](http://onlyway.s3wf.com.br)
+Developed in PHP, Databases in RDS AWs using postgres, some specific modules of much traffic were rewritten in Golang, see some of the projects that use the platform.
+- See some examples
+- [zaionshop.s3](http://zaionshop.s3commerce.com.br)
+- [nilltags.s3](http://nilltags.s3wf.com.br)
+- [useverso.s3](http://useverso.s3commerce.com.br)
+- [divercellomoveis.com.br](http://divercellomoveis.com.br)
+- [mochillaecia.com.br](http://mochilaecia.com.br)
+- [rafaelmendonca.com.br](http://rafaelmendonca.com.br)
+- [donalcides.com.br](http://donalcides.com.br)
+- [designmania.com.br](http://designmania.com.br)
+- [onlyway.com.br](http://onlyway.s3wf.com.br)
 
 ##### Bash, terminal, Server SOAP/WSDL, Server RestFul and GED (Php/Golang/Postgres)
-Developed in Golang, shell script and Php: [densotouch](http://densotouch.s3wf.com.br), [Aethra Group](http://develged.aethra.com.br), [georadar sao](http://sao.georadar.com.br), [commercial proposal](http://spc2.s3wf.com.br), [ponto online](http://ponto.s3wf.com.br), [gotratch](http://gotratch.s3wf.com.br), [archiviobrasil](http://archiviobrasil.com.br)
+Developed in Golang, shell script and Php.
+- See some examples:
+- [densotouch.s3](http://densotouch.s3wf.com.br)
+- [Aethra Group](http://develged.aethra.com.br)
+- [system georadar](http://sao.georadar.com.br)
+- [commercial proposal](http://spc2.s3wf.com.br)
+- [online dot marking](http://ponto.s3wf.com.br)
+- [gotratch.s3](http://gotratch.s3wf.com.br)
+- [archiviobrasil.com.br](http://archiviobrasil.com.br)
 
+##### Portals, Blogs, Intranets, Extranets and Systems (PHP/Postgres)
+Developed in Php, database Redis and Postgres
+- See some examples:
+- [grupoperfect.com.br](http://grupoperfect.com.br)
+- [s3wf.com.br](http://s3wf.com.br)
+- [s3commerce.com.br](http://s3commerce.com.br)
+- [juridical.s3](http://juridico.s3wf.com.br)
+- [financial.s3](http://financeiro.s3wf.com.br)
+- [extranet](http://extranet.aethra.com.br)
+- [intranet](http://intranet.aethra.com.br)
+
+##### Skills and Technologies Used in the Projects Above
+Php, Go, C, Shell Script, Json, Xml, Wsdl, RestFul, Server Soap, Memcached, APC,  Redis, SqlLite, Elasticsearch, RabbitMQ, Beanstalkd, Postgresql, Citusdata, Mysql, MongoDb, DynamoDB, javascript, React, Vue.js, jquery, Docker, APIs AWS, APIs Moip RestFul, Cnova RestFul APIs, RestFul Apis B2W, RestFul Free Market APIs, SAP ERP integration and Datasul.
+
+##### Education & Languages / English: Advanced
+- Pontifical Catholic University of Minas Gerais Bachelor, Computer Science 1999 - 2004
+- Federal University of Lavras Pos, Improvement Software Process 2008 - 2010
+- Getulio Vargas Pos Foundation, MBA Project Management 2009 - 2010
+- Getulio Vargas Pos Foundation, Digital Marketing 2015 - 2017 (in progress)
+
+##### Networking
+
+- github.com/jeffotoni
+- linkedin/jeffotoni 
+- livecoding.tv/jeffotoni
+- @jeffotoni  
+- facebook.com.br/jeffotoni 
+
+Jefferson Otoni Lima CEO & Co-Founder and Developer Full Stack s3wf / jeff.otoni@s3wf.com.br
 
