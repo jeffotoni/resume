@@ -26,3 +26,10 @@ Development of a Worker Pool for mass mailing, integrated with Amazon SES and SQ
 ##### Web service REST ( Golang/Postgresql/DynamoDB/Ngnix)
 Developing REST Web Service for a file upload server, the developed API uses authentication using JWT. Golang language, Ngnix (HTTP reverse proxy), RabbitMq for queue management, Elasticsearch for the logs and Docker usage for the created micro-service and S3 for storage, and in the client uses JS + Bootstrap + Webpack. A demo can be viewed here: [ios3.s3appis.com](http://ios3.s3apis.com/)
 
+##### Mercado Livre (PHP e Golang/Postgresql)
+Integration with Free Market to manage and ship products with your marketplace. Using Postgresql and the Free Market SDK, the modules were rewritten in Golang, the first version was made in PHP.
+
+##### Framework itself, E-commerce, Marketplaces and Videos online
+Developed in PHP, Databases in RDS AWs using postgres, some specific modules of much traffic were rewritten in Golang, see some of the projects that use the platform: [zaionshop](zaionshop.s3commerce.com.br), [nilltags](nilltags.s3wf.com.br),  [useverso](useverso.s3commerce.com.br), [divercellomoveis](divercellomoveis.com.br), [mochillaecia](mochilaecia.com.br), [rafaelmendonca](rafaelmendonca.com.br), [donalcides](donalcides.com.br), [designmania](designmania.com.br), [onlyway](onlyway.s3wf.com.br)
+
+
