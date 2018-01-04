@@ -1,5 +1,5 @@
 ## resume
-##### short summary of what I do
+##### Short Summary of What I Do
 
 #### jefferson Otoni Lima
 ##### CEO & Co-Fundador and Developer Full Stack | S3wf 
