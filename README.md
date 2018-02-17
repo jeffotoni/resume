@@ -82,11 +82,12 @@ Php, Go, C, Shell Script, Json, Xml, Wsdl, RestFul, Server Soap, Memcached, APC,
 
 ##### Networking
 
-- github.com/jeffotoni
-- linkedin/jeffotoni 
-- livecoding.tv/jeffotoni
-- @jeffotoni  
-- facebook.com.br/jeffotoni 
+- [github.com/jeffotoni](https://github.com/jeffotoni)
+- [stackoverflow/jeffotoni](https://pt.stackoverflow.com/users/80089/jefferson-otoni-lima?tab=profile)
+- [@jeffotoni](https://twitter.com/jeffotoni)
+- [linkedin/jeffotoni](https://www.linkedin.com/in/jefferson-otoni-lima-a784394/)
+- [livecoding.tv/jeffotoni](https://www.liveedu.tv/jeffotoni)
+- [facebook.com.br/jeffotoni](https://www.facebook.com/jeffotoni) 
 
 Jefferson Otoni Lima CEO & Co-Founder and Developer Full Stack s3wf / jeff.otoni@s3wf.com.br
 
