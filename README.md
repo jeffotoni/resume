@@ -40,7 +40,7 @@ Developed in PHP, Databases in RDS AWs using postgres, some specific modules of 
 - [zaionshop.s3](http://zaionshop.s3commerce.com.br)
 - [nilltags.s3](http://nilltags.s3wf.com.br)
 - [useverso.s3](http://useverso.s3commerce.com.br)
-- [divercellomoveis.com.br](http://divercellomoveis.com.br)
+- [divercellomoveis.com.br](http://divercello2.s3commerce.com.br)
 - [mochillaecia.com.br](http://mochilaecia.com.br)
 - [rafaelmendonca.com.br](http://rafaelmendonca.com.br)
 - [donalcides.com.br](http://donalcides.com.br)
